@@ -4,7 +4,6 @@
     "type": "object",
     "title": "The root schema",
     "description": "The root schema comprises the entire JSON document.",
-    "default": {},
     "examples": [
         {
             "isbn": "0691161518",
